@@ -1,0 +1,105 @@
+.casa-caja{
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #A9E2F3;
+
+}
+.pasto{
+  background-color: #82FA58;
+  border: 1px solid #088A4B;
+  width: 800px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+}
+.base{
+  background-color:#ff8f84;
+  border: 1px solid #383068;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 30px;
+  left: 300px;
+}
+.techo {
+  width: 200px;
+  height: 0px;
+  border-right: 60px solid transparent;
+  border-left: 60px solid transparent;
+  border-bottom: 100px solid #2d3e50;
+  position: absolute;
+  bottom: 150px;
+  left: 245px;
+}
+.ventana_1{
+  background-color:#A9E2F3;
+  border: 1px solid #383068;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  bottom: 90px;
+  left: 320px;
+}
+.ventana_2{
+  background-color:#A9E2F3;
+  border: 1px solid #383068;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  bottom: 90px;
+  left: 435px;
+}
+.puerta{
+  background-color:#03101C;
+  border: 1px solid #383068;
+  width: 45px;
+  height: 60px;
+  position: absolute;
+  bottom: 30px;
+  left: 380px;
+}
+
+.chimenea{
+  background-color:#ff8f84;
+  border: 1px solid #383068;
+  width: 35px;
+  height: 55px;
+  position: absolute;
+  bottom: 230px;
+  left: 440px;
+}
+.humo_1{
+     width: 40px;
+     height: 40px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #0ba5a3;
+     position: absolute;
+     bottom: 300px;
+     left: 450px;
+}
+.humo_2{
+     width: 30px;
+     height: 30px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #2dc0be;
+     position: absolute;
+     bottom: 320px;
+     left: 470px;
+}
+.humo_3{
+     width: 20px;
+     height: 20px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #ddd8ff;
+     position: absolute;
+     bottom: 340px;
+     left: 490px;
+}
